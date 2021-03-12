@@ -5,6 +5,6 @@ Apontar...
 FOGO!
 OBS: Aguarde o pressionamento de uma tecla antes de cada transição.
 
-# nome: Renan de Oliveira Ferreira Menezes
+ nome: Renan de Oliveira Ferreira Menezes
 
 

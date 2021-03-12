@@ -11,26 +11,22 @@ namespace ContagemRegressiva
             Console.WriteLine("Contagem Regressiva!");
             Console.WriteLine();
             Console.ResetColor();
-            Console.ForegroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.ReadKey();
-            Console.WriteLine("É 1 ...");
+            Console.WriteLine("Preparar...");
             Console.WriteLine();
             Console.ResetColor();
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.ReadKey();
-            Console.WriteLine("É 2 ...");
+            Console.WriteLine("Apontar ...");
             Console.WriteLine();
             Console.ResetColor();
-            Console.ForegroundColor = ConsoleColor.Green;
+            Console.ForegroundColor = ConsoleColor.DarkRed;
             Console.ReadKey();
-            Console.WriteLine("É 3 ...");
+            Console.WriteLine("FOGO!");
             Console.WriteLine();
             Console.ResetColor();
-            Console.ForegroundColor = ConsoleColor.Cyan;
-            Console.ReadKey();
-            Console.WriteLine("E já!");
-            Console.WriteLine();
-            Console.ResetColor();
+
 
 
 
